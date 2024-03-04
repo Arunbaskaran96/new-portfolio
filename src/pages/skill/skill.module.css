@@ -55,7 +55,9 @@
 .skillname{
     font-size: 20px;
 }
-
+.loader{
+    margin-top: 30px;
+}
 .techContainer{
     width: 90%;
     margin: auto;

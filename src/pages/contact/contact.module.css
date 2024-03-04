@@ -62,6 +62,10 @@
     aspect-ratio: 1/1;
 }
 
+.loader{
+    margin-top: 30px;
+}
+
 @media only screen and (max-width:600px){
     .interestContainer{
         padding: 10px 20px;
