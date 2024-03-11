@@ -29,7 +29,7 @@ export default function Home() {
           </p>
           <div className={classes.iconContainer}>
             <a
-              href="https://www.linkedin.com/in/arun-b-841112271/"
+              href="https://www.linkedin.com/in/arunbaskaran96/"
               target="blank"
             >
               <img
@@ -49,7 +49,7 @@ export default function Home() {
           <div style={{ marginTop: "35px", textDecoration: "none" }}>
             <a
               style={{ textDecoration: "none" }}
-              href="https://drive.google.com/file/d/1asyxSnaxYzgqsZOA8C86f1OuVxIgKl6z/view?usp=sharing"
+              href="https://drive.google.com/file/d/1tCtcg3Zax4K0fv5o9yud4VdSDrmMwJ8s/view?usp=sharing"
               target="blank"
               className={classes.btn}
             >
