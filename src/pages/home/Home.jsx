@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import classes from "./home.module.css";
 import Loading from "../../components/loading/Loading";
+import linkedin from "../../assets/linkedin.svg";
 
 export default function Home() {
   const [loading, setLoading] = useState(true);
@@ -32,11 +33,7 @@ export default function Home() {
               href="https://www.linkedin.com/in/arunbaskaran96/"
               target="blank"
             >
-              <img
-                className={classes.img}
-                src="https://www.svgrepo.com/show/57106/linkedin.svg"
-                alt="logo-img"
-              />
+              <img className={classes.img} src={linkedin} alt="logo-img" />
             </a>
             <a href="https://github.com/Arunbaskaran96" target="blank">
               <img
